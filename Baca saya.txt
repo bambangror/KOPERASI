@@ -1,0 +1,19 @@
+Source Code ini berasal dari buku berjudul :
+
+PANDUAN MEMBUAT APLIKASI KOPERASI SIMPAN PINJAM DENGAN PHP-MYSQL DAN DREAMWEAVER
+
+Penulis : Bunafit Nugroho
+Website : www.BunafitKomputer.com
+
+
+Semua buku dan source code diajarkan menggunakan tools
+ - XAMPP 5
+ - DREAMWEAVER 8 ( bisa memakai Dreamweaver CS x )
+
+Untuk XAMPP, sebaiknya Anda menggunakan versi yang sama yaitu XAMPP 5. Jika Anda menggunakan versi di atas Xampp 5 atau di bawah versi 5 terjadi error, silahkan Anda sesuaikan sendiri setingan pada Xampp-nya, cari informasi di Google.
+
+XAMPP 5 bisa di-Download di www.ApacheFriends.org, atau dikopi dari CD Penyerta buku ini.
+
+Semoga informasi ini bermanfaat
+
+Selamat belajar
